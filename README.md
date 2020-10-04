@@ -1,5 +1,5 @@
 # p4wparser
-Basic python parsing syntax for parsing project for web the tasks json
+Basic python parsing syntax for parsing project  the web tasks json
 
 Project for the web doesn't currently seem to have any easy data export options. This script helps with that. 
 
